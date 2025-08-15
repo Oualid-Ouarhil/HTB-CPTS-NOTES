@@ -1,0 +1,1 @@
+This Repository is meant for HTB CPTS path and exam prep.
