@@ -130,4 +130,4 @@ Common techniques:
 
 ## One-Line Summary (Exam-Ready)
 
-> **DNS translates domain names into IP addresses by querying multiple DNS servers in a hierarchical order.**
+> **DNS translates domain names into IP addresses by querying multiple DNS servers in a hierarchical order.**![[Pasted image 20251220055002.png]]
